@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dschida_Profile</string>
+    <string name="txtName">Banana</string>
+    <string name="btnTxtProfile">View Profile</string>
+    <string name="txtProfileInformation">Name: Banana \nSign: Capricorn \nTaste: Delicious \nFun Fact: Full of Potassium</string>
+    
+</resources>
